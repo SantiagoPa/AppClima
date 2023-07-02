@@ -6,3 +6,9 @@ puedes buscar las ciudades de los paises, y  su clima entre otras propiedades. (
 npm install
 
 ``` 
+
+## Iniciar aplicacion
+
+```
+npm run start
+```
